@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "seasons": [
+    {
+      "id": "s1",
+      "name": "First Frost",
+      "start": "2026-10-04T00:00:00Z",
+      "end": "2026-11-15T00:00:00Z",
+      "rewards": ["s1_frost_sparks", "s1_violet_shatter", "s1_frostfall", "s1_aurora_wisps", "s1_frost_crown"]
+    }
+  ]
+}
