@@ -1,0 +1,17 @@
+{
+  "seasons": [
+    {
+      "id": "s1",
+      "name": "Blood Moon",
+      "start": "2026-10-04T00:00:00Z",
+      "end": "2026-11-15T00:00:00Z",
+      "rewards": [
+        "effect.s1_embers",
+        "wall.s1_bloodmoon",
+        "survivor.s1_hunter",
+        "effect.s1_howl",
+        "zombie.s1_moonlord"
+      ]
+    }
+  ]
+}
