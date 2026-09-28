@@ -1,0 +1,18 @@
+{
+  "about": "Conquest season schedule. The app fetches it at launch and falls back to its built-in schedule.",
+  "seasons": [
+    {
+      "id": "s1",
+      "name": "Winter Muster",
+      "start": "2026-10-05T00:00:00Z",
+      "end": "2026-11-16T00:00:00Z",
+      "rewards": [
+        "title:s1_mustered",
+        "title:s1_frostbitten",
+        "title:s1_winter_guard",
+        "title:s1_icebreaker",
+        "skin:frost"
+      ]
+    }
+  ]
+}
